@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  background-color: #e5e5e5;
+  min-height: 100%;
+}
+
+.bg-custom {
+  background-image: linear-gradient( 15deg,#61dbfb,#80c7d0);
+  padding: 5rem 0;
+}
+
+h1 {
+  color: white;
+  font-weight: 900;
+  text-align: center;
+  font-size: 3rem;
+}
